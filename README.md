@@ -23,13 +23,13 @@ These are some of the major technologies that I use or have worked on in the pas
 ## **Programming Languages**
 
 <p align="center">
-<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"><img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"><img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png" /><img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
+<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"><img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"><img title="Dart" alt="Dart" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png" /><img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
 <p/>
 
 ## **Libraries and Frameworks**
 
 <p align="center">
-<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png"><img title="firebase" alt="firebase" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png"><img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"><img title="express" alt="express" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png">
+<img title="Flutter" alt="Flutter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png"><img title="Firebase" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png"><img title="nodejs" alt="nodejs" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"><img title="Express" alt="Express" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png">
 <p/>
 
 ## **Cloud**
@@ -49,9 +49,9 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <p align="center">
 <img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">
-<img title="ZSH" alt="ZSH" width="40px" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png"><img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
-<img title="arduino" alt="arduino" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png">
-<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
+<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
+<img title="Arduino" alt="Arduino" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png">
+<img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
 <p/>
 
 
