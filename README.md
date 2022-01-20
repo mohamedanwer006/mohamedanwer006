@@ -29,13 +29,14 @@ These are some of the major technologies that I use or have worked on in the pas
 ## **Libraries and Frameworks**
 
 <p align="center">
-<img title="Flutter" alt="Flutter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png"><img title="Firebase" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png"><img title="nodejs" alt="nodejs" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"><img title="Express" alt="Express" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png">
+<img title="Terraform" alt="Terraform" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/terraform/terraform.png"><img title="Flutter" alt="Flutter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png"><img title="Firebase" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png"><img title="nodejs" alt="nodejs" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"><img title="Express" alt="Express" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png">
 <p/>
 
 ## **Cloud**
 
 <p align="center">
-<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"><img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png">
+<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">
+<img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png">
 <p/>
 
 ## **Databases**
@@ -48,10 +49,12 @@ These are some of the major technologies that I use or have worked on in the pas
 ## **Tools**
 
 <p align="center">
+<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png">  
 <img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">
 <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
 <img title="Arduino" alt="Arduino" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png">
 <img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
+<img title="Bash" alt="Bash" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png">  
 <p/>
 
 
