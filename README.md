@@ -23,7 +23,10 @@ These are some of the major technologies that I use or have worked on in the pas
 ## **Programming Languages**
 
 <p align="center">
-<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"><img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"><img title="Dart" alt="Dart" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png" /><img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
+<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
+<img title="Dart" alt="Dart" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png" />
+<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
 <p/>
 
 ## **Libraries and Frameworks**
@@ -36,6 +39,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <p align="center">
 <img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">
+<img title="GCP" alt="GCP" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png">
 <img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png">
 <p/>
 
@@ -43,6 +47,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <p align="center">
 <img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">
+<img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">
 <br>
 <p/>
 
@@ -50,15 +55,14 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <p align="center">
 <img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png">  
-<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">
-<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
-<img title="Arduino" alt="Arduino" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png">
+<img title="Ansible" alt="Ansible" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ansible/ansible.png">
+<img title="Kubernetes" alt="kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png">
 <img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
 <img title="Bash" alt="Bash" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png">  
 <p/>
 
 
-<hr/>
+
 <hr/>
 <h4 align="center">Visitor's count :eyes:</h4>
 
