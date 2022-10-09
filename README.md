@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning AWS SAA
-- 📫 How to reach me: mohamedanwer006@gmail.com
+- 📫 How to reach me : https://www.linkedin.com/in/mohamedanwer006/
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohamedanwer006&theme=dark)
 
