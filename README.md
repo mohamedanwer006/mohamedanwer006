@@ -11,6 +11,7 @@
 
 - 🔭 I’m currently working on something cool :wink:
 - 📫 How to reach me: https://www.linkedin.com/in/mohamedanwer006/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://eg.linkedin.com/in/mohamedanwer006)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohamedanwer006&theme=dark)
 
